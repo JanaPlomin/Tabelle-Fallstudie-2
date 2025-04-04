@@ -8,12 +8,12 @@ Um mit Daten arbeiten zu können, müssen diese auffindbar sein. Dieses <a href=
 *Abbildung 1: Datenwissenschaftler analysiert Baumverteilungen* Bildquelle: KI generiert`
 
 
-## Forschungsfrage - Baumbestand-Analyse: Erfassung der Baumartenverteilung
+## Baumbestand-Analyse: Erfassung der Baumartenverteilung
 Der Baumbestand in deutschen Städten und ländlichen Regionen ist für Klimaanpassung, Umweltforschung und Stadtplanung von zentraler Bedeutung. Eine wichtige Grundlage für diese Arbeiten sind detaillierte Baumkataster, die Informationen zu Baumarten, Standorten und Zustand liefern. Doch wie gut sind diese Daten öffentlich zugänglich?
 
 Dr. Amir Weber, ein Wissenschaftler mit Interesse an städtischen und ländlichen Baumbeständen, möchte ein Dashboard zur Visualisierung der Baumartenvielfalt für die Jahre 2022–2024 entwickeln, das auf offenen Datensätzen basiert. Dazu stellt sich Dr. Weber die folgende Frage:
 
-**- Wie unterscheidet sich das Angebot an offenen Baumkataster-Daten in den deutschen Bundesländern im Zeitraum 2022 – 2024 hinsichtlich Anzahl, Bereitsteller und Veröffentlichungsaktivität?** 
+**- Übergeordnete Forschungsfrage: Wie unterscheidet sich das Angebot an offenen Baumkataster-Daten in den deutschen Bundesländern im Zeitraum 2022 – 2024 hinsichtlich Anzahl, Bereitsteller und Veröffentlichungsaktivität?** 
 
 Die Hauptfrage lässt sich also in mehrere Teilfragen untergliedern, die eine detaillierte Analyse der offenen Baumkataster-Daten ermöglichen. Diese Unterfragen fokussieren sich auf verschiedene Aspekte der Datensätze: die Gesamtzahl der Datensätze bundesweit, die Verteilung der Daten auf die einzelnen Bundesländer sowie die Unterschiede in der Zahl der Datenbereitsteller und der Vielfalt der bereitgestellten Formate in den jeweiligen Regionen.
 
